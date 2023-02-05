@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MrPaperBag
 - 👀 I’m interested in making new/dumb stuff
-- 🌱 I’m currently in school 12th grade (learning python and discord.py in my free time)
-- 💞️ I’m looking to collaborate on discord bots and games
+- 🌱 I’m currently doing B-tech (RObotics and Automation)
+- 💞️ I’m looking to collaborate on anything that helps me learn
 - 📫 How to reach me ...
 
 <!---
